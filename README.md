@@ -38,6 +38,7 @@ In this game:
 
 # Othello Game
 The rules for Othello can be found here: https://www.ultraboardgames.com/othello/game-rules.php. 
+
 Features of this game include:
 * Players are black and white.
 * Board should be 8x8 with a checkerboard background pattern.
