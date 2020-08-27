@@ -37,7 +37,8 @@ In this game:
 * After a move that neither wins or draws, message should indicate who goes next.
 
 # Othello Game
-The rules for Othello can be found here: https://www.ultraboardgames.com/othello/game-rules.php. Features of this game include:
+The rules for Othello can be found here: https://www.ultraboardgames.com/othello/game-rules.php. 
+Features of this game include:
 * Players are black and white.
 * Board should be 8x8 with a checkerboard background pattern.
 * The game should start with the middle 2x2 spots set up with alternating white and black pieces already set.
